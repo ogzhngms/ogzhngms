@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="title desc">
+  <title id="title">Oğuzhan Gümüş — Android Developer</title>
+  <desc id="desc">Native Android development with Kotlin and Jetpack Compose.</desc>
+  <rect width="1100" height="260" rx="22" fill="#0d1117"/>
+  <rect x="1" y="1" width="1098" height="258" rx="21" fill="none" stroke="#25313c"/>
+  <rect x="45" y="45" width="5" height="170" rx="2.5" fill="#3ddc84"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="77" y="79" fill="#3ddc84" font-size="15" font-weight="600" letter-spacing="3">NATIVE ANDROID DEVELOPMENT</text>
+    <text x="75" y="141" fill="#f0f6fc" font-size="46" font-weight="700">Oğuzhan Gümüş</text>
+    <text x="77" y="185" fill="#a8b6c5" font-size="21">Kotlin / Jetpack Compose / Thoughtful architecture</text>
+    <text x="77" y="218" fill="#758597" font-size="14">@ogzhngms</text>
+  </g>
+  <g transform="translate(904 43)">
+    <rect width="99" height="176" rx="22" fill="#15212b" stroke="#3ddc84" stroke-width="2"/>
+    <rect x="29" y="10" width="41" height="5" rx="2.5" fill="#3ddc84"/>
+    <rect x="14" y="39" width="71" height="46" rx="9" fill="#234637"/>
+    <rect x="14" y="96" width="44" height="6" rx="3" fill="#b2e7c9"/>
+    <rect x="14" y="110" width="71" height="5" rx="2.5" fill="#466555"/>
+    <rect x="14" y="123" width="56" height="5" rx="2.5" fill="#466555"/>
+    <rect x="14" y="143" width="71" height="18" rx="9" fill="#3ddc84"/>
+  </g>
+</svg>
