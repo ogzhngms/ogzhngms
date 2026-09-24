@@ -20,6 +20,12 @@ I'm a mobile QA engineer with 3+ years of manual and automated testing experienc
 
 A native Android app with a daily progress ring, cup tracking, undo, local persistence, and light/dark themes. Built with Compose and a Presentation / Domain / Data structure, with unit and Compose UI tests.
 
+<p>
+  <img src="https://ogzhngms.github.io/img/sutakibi-01-dark.png" width="200" alt="Sutakibi home screen in the dark theme">
+  <img src="https://ogzhngms.github.io/img/sutakibi-03-bottle.png" width="200" alt="Sutakibi in the light theme with the bottle vessel selected">
+  <img src="https://ogzhngms.github.io/img/sutakibi-04-backup.png" width="200" alt="Sutakibi cloud backup sheet with Google sign-in">
+</p>
+
 In closed testing on Google Play · [join the test](https://groups.google.com/g/sutakibi-testers) · *source repository is private*
 
 ### Writing (Turkish, on Medium)
